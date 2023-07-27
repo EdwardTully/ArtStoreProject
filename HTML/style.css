@@ -1,0 +1,88 @@
+
+
+
+* {
+    font-family: Helvetica;
+
+}
+
+body {
+    width: 100%;
+    background-color: black;
+
+}
+#page {
+    width: 90%;
+    height: 100%s;
+    background-color: rgb(191, 196, 190);
+}
+
+#tablet{
+    width: 1200px;
+    vertical-align: center;
+    padding: 0px 10px;
+    margin: auto;
+    border: 2px solid black;
+    background-color: white;
+    
+}
+
+
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    padding: 15px 10px;
+    background-image: url('pattern.jpeg');
+    
+
+    
+}
+
+.images {
+    padding: 2px;
+    border: 2px solid black;
+    margin: 10px;
+    position: relative;
+    
+    
+
+}
+
+#priceline {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color: mediumspringgreen;
+    
+
+}
+
+.frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color: lightcoral;
+
+}
+
+.paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color: skyblue;
+
+}
